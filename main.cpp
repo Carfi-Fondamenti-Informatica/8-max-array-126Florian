@@ -9,7 +9,7 @@ int main(){
   for (int i=0;i<dim;i++){
    cin>>numeri[i];
   }
-  numeriMassimo(numeri, dim);
+  numeroMassimo(numeri, dim);
         cout<<numeroMassimo(numeri , dim)<<endl;
   return 0;
 }
